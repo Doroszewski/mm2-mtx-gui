@@ -1,0 +1,5 @@
+Based on the Oxygen icon for the empty file, (C) KDE, licensed under
+the GNU LGPL license (version 3 or later).
+
+https://develop.kde.org/frameworks/oxygen-icons/
+https://invent.kde.org/frameworks/oxygen-icons
